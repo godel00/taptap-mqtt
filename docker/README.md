@@ -1,6 +1,6 @@
 # TapTap‑MQTT Docker README
 
-This is a Docker implementation of the **TapTap → MQTT bridge** for reading data from **Tigo TS4 optimizers** via the CCA/TAP and publishing it into **Home Assistant** using MQTT.
+This is a Docker implementation of the **TapTap → MQTT bridge** by https://github.com/litinoveweedle/taptap-mqtt for reading data from **Tigo TS4 optimizers** via the CCA/TAP and publishing it into **Home Assistant** using MQTT.
 
 This container bundles:
 
